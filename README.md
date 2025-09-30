@@ -1,17 +1,53 @@
-# 👋  **Bienvenido a mi perfil** 👋  
-  
-  
-- 👽 Soy estudiante de 1º de DAW en el instituto benigaslo 👽
+# 👋 ¡Hola! Soy Antonio Magdalena Gonzalez
 
-###  👾 Me gusta: 
-   1. Jugar videojuegos🕹️
-   2. A naturaleza🍁
-   3. Los animales🦋
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con experiencia práctica en el desarrollo de aplicaciones, gestión de bases de datos y administración de sistemas. Me apasiona la tecnología, el aprendizaje continuo y participar en proyectos que tengan un impacto real.
 
+---
 
-- En este perfil encontraras los trabajos y proyectos que lleve a cabo durante este curso y probablemente el año que viene.
+## 💻 Habilidades Técnicas
 
-Y para terminar de momento mi README os dejo una frase que me gusta mucho de Finn, el prota de hora de aventuras:
-> "!Matemático¡"
+- **Lenguajes de programación:** Java, JavaScript, HTML, CSS, Python
+- **Frameworks y librerías:** Next.js
+- **Bases de datos:** SQL, gestión de datos y modelado de relaciones
+- **Sistemas y administración:** Linux, Windows, gestión de usuarios
+- **Redes y seguridad:** Configuración básica de redes, protocolos, seguridad informática
+- **Desarrollo web:** Front-end y back-end, creación de portales web dinámicos
+- **Otras herramientas:** Git, GitHub, entornos de desarrollo colaborativos
 
-![👋  Bienvenido a mi perfil](https://media4.giphy.com/media/bv68r1aVjnE2Ips1a0/giphy.gif?cid=6c09b952899vq9qrteoa0mcwu1sqqw2c09zdl6hx5dyi86td&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)  
+---
+
+## 🏆 Experiencia
+
+**Prácticas como Desarrollador de Aplicaciones Web**  
+*Ayuntamiento Segorbe, Castellon*  
+- Creación y mantenimiento de portales web dinámicos  
+- Gestión de usuarios en Linux y Windows  
+- Configuración de redes y soporte básico en protocolos  
+- Colaboración en proyectos reales, aplicando buenas prácticas de desarrollo
+
+---
+
+## 🎯 Formación
+
+- **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)** – [Nombre de tu centro educativo]  
+Actualmente cursando segundo año, con sólidos conocimientos en programación y desarrollo web full-stack.
+
+---
+
+## 🌱 Intereses
+
+- Transformación digital y automatización de procesos  
+- Desarrollo de soluciones web y multiplataforma  
+- Seguridad informática y mejores prácticas de programación  
+- Aprender nuevas tecnologías y metodologías ágiles
+
+---
+
+## 📫 Contacto
+
+- Email: tonimagonz@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/antonio-magdalena-67172a279/  
+
+---
+
+> “El aprendizaje constante y la curiosidad son la base del desarrollo profesional y personal.”
