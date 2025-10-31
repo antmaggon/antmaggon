@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Antonio Magdalena Gonzalez
+#  ¡Hola! Soy Antonio Magdalena Gonzalez
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con experiencia práctica en el desarrollo de aplicaciones, gestión de bases de datos y administración de sistemas. Me apasiona la tecnología, el aprendizaje continuo y participar en proyectos que tengan un impacto real.
 
@@ -16,7 +16,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con experiencia prác
 
 ---
 
-## 🏆 Experiencia
+##  Experiencia
 
 **Prácticas como Desarrollador de Aplicaciones Web**  
 *Ayuntamiento Segorbe, Castellon*  
@@ -27,14 +27,14 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con experiencia prác
 
 ---
 
-## 🎯 Formación
+##  Formación
 
 - **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)** – [Nombre de tu centro educativo]  
 Actualmente cursando segundo año, con sólidos conocimientos en programación y desarrollo web full-stack.
 
 ---
 
-## 🌱 Intereses
+##  Intereses
 
 - Transformación digital y automatización de procesos  
 - Desarrollo de soluciones web y multiplataforma  
@@ -43,7 +43,7 @@ Actualmente cursando segundo año, con sólidos conocimientos en programación y
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - Email: tonimagonz@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/antonio-magdalena-67172a279/  
