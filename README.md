@@ -4,7 +4,7 @@ I am a student of **Web Application Development (WAD)** with practical experienc
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - **Programming languages:** Java, JavaScript, HTML, CSS, Python
 - **Frameworks and libraries:** Next.js
