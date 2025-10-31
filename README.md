@@ -50,7 +50,4 @@ Currently in my second year, with solid knowledge of programming and full-stack 
 
 ---
 
-> “Constant learning and curiosity are the foundation of professional and personal development.”
-
-
-Translated with DeepL.com (free version)
+> My grandma once said: “Do what you enjoy and take care of your loved ones, and time will place everything in its place.”
