@@ -29,7 +29,7 @@ I am a student of **Web Application Development (WAD)** with practical experienc
 
 ##  Education
 
-- **Advanced Vocational Training in Web Application Development (DAW)** – [Name of your educational institution]  
+- **Advanced Vocational Training in Web Application Development (DAW)** – IES Benigaslo  
 Currently in my second year, with solid knowledge of programming and full-stack web development.
 
 ---
