@@ -50,4 +50,3 @@ Currently in my second year, with solid knowledge of programming and full-stack 
 
 ---
 
-> My grandma once said: “Do what you enjoy and take care of your loved ones, and time will place everything in its place.”
