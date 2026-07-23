@@ -45,8 +45,8 @@ Currently in my second year, with solid knowledge of programming and full-stack 
 
 ##  Contact
 
-- Email: tonimagonz@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/antonio-magdalena-67172a279/  
+- Email: antmaggon@proton.me
+- LinkedIn: https://www.linkedin.com/in/antmaggon/
 
 ---
 
