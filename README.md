@@ -1,52 +1,86 @@
-#  Hello! My name is Antonio Magdalena Gonzalez.
+# Hi, I'm Antonio Magdalena González
 
-I am a student of **Web Application Development (WAD)** with practical experience in application development, database management, and system administration. I am passionate about technology, continuous learning, and participating in projects that have a real impact.
+Developer moving towards **DevOps and Cloud Infrastructure**.
 
----
+I hold a Higher National Diploma in Web Application Development and previously completed two years of Computer Science at Universitat Politècnica de València. I have professional experience as a developer at **Capgemini** and as an IT technician at **Segorbe Town Council**, where I combined development with systems and network administration.
 
-##  Technical Skills
-
-- **Programming languages:** Java, JavaScript, HTML, CSS, Python
-- **Frameworks and libraries:** Next.js
-- **Databases:** SQL, data management, and relationship modeling
-- **Systems and administration:** Linux, Windows, user management
-- **Networking and security:** Basic network configuration, protocols, computer security
-- **Web development:** Front-end and back-end, creation of dynamic web portals
-- **Other tools:** Git, GitHub, collaborative development environments
+Most of my infrastructure practice comes from my own homelab: a Linux server where I deploy, operate and monitor containerised applications. I'm currently focused on automation, CI/CD and cloud infrastructure.
 
 ---
 
-##  Experience
+## Tech Stack
 
-**Internship as a Web Application Developer**  
-*Segorbe City Council, Castellón*  
-- Creation and maintenance of dynamic web portals  
-- User management in Linux and Windows  
-- Network configuration and basic protocol support  
-- Collaboration on real projects, applying good development practices
+**DevOps & Cloud**
+`Docker` `GitHub Actions (CI/CD)` `Linux` `Bash` `AWS (EC2, IAM, Security Groups)`
 
----
+**Languages & Scripting**
+`TypeScript` `JavaScript` `Python` `Java` `Bash` `SQL`
 
-##  Education
+**Web Development**
+`Next.js` `React` `Node.js` `Express` `HTML` `CSS` `Prisma`
 
-- **Advanced Vocational Training in Web Application Development (DAW)** – IES Benigaslo  
-Currently in my second year, with solid knowledge of programming and full-stack web development.
+**Databases**
+`PostgreSQL` `MySQL`
 
----
+**Systems & Networking**
+`Linux administration` `TCP/IP` `DHCP` `OSI model` `Tailscale`
 
-##  Interests
-
-- Digital transformation and process automation  
-- Development of web and multi-platform solutions  
-- IT security and best programming practices  
-- Learning new technologies and agile methodologies
+**Other**
+`Git` `GitHub` `Appian (Sail)`
 
 ---
 
-##  Contact
+## Projects
 
-- Email: antmaggon@proton.me
-- LinkedIn: https://www.linkedin.com/in/antmaggon/
+### moduLife — modular personal management app
+Full-stack application built from scratch with **Next.js, TypeScript, Prisma and PostgreSQL**.
+Containerised with **Docker multi-stage builds** and deployed to production on my own homelab.
+Feature-branch workflow on GitHub.
+
+### Self-managed homelab — Raspberry Pi 4
+Home **Linux** server running containerised services with **Docker**, with self-hosted storage and secure remote access over a private network (**Tailscale**).
+I monitor the running services, review logs and resolve incidents to keep the platform available.
+
+### Academic projects
+Smaller full-stack work from my studies, including a **Node.js / Express / TypeScript** inventory application with **PostgreSQL** and **Docker Compose**, and a **PHP MVC** web forum.
 
 ---
 
+## Currently learning
+
+Building on my homelab to close the gaps that matter most for infrastructure roles:
+
+- Infrastructure as Code — **Terraform**, **Ansible**
+- Container orchestration — **Kubernetes** (k3s)
+- Monitoring and observability — **Prometheus**, **Grafana**
+- Automation scripting in **Bash** and **Python**
+
+---
+
+## Experience
+
+**Appian Developer Intern** — Capgemini · Valencia, Spain
+Interfaces and business workflows on the Appian low-code platform using Sail. Database design and modelling for enterprise applications. Agile team environment.
+
+**IT Technician** — Segorbe Town Council · Castellón, Spain
+Development and maintenance of internal web applications. Systems and local network administration. Technical incident handling and user support.
+
+---
+
+## Education
+
+- **Higher National Diploma in Web Application Development** — IES Benigasló (2024–2026)
+- **Computer Science** — Universitat Politècnica de València (2020–2022, 2 years completed)
+
+---
+
+## Interests
+
+Automation, cloud infrastructure, self-hosting, and IT security.
+
+---
+
+## Contact
+
+- **Email:** antmaggon@proton.me
+- **LinkedIn:** [linkedin.com/in/antmaggon](https://www.linkedin.com/in/antmaggon/)
